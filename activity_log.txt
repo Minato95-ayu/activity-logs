@@ -84,3 +84,4 @@ Update dependencies at 2025-07-22T21:07:03
 Update documentation at 2025-07-23T18:36:04
 Update dependencies at 2025-07-23T19:12:46
 Update README.md at 2025-07-23T11:39:41
+Add new utility function at 2025-07-23T19:24:28
