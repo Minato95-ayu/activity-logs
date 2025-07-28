@@ -92,3 +92,4 @@ Update README.md at 2025-07-26T21:45:05
 Update dependencies at 2025-07-26T19:20:41
 Refactor core logic at 2025-07-26T13:25:42
 Refactor core logic at 2025-07-28T13:27:09
+Add new utility function at 2025-07-28T17:19:19
