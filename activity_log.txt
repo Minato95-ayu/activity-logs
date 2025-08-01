@@ -99,3 +99,4 @@ Fix minor typo at 2025-07-29T13:58:01
 Add unit tests at 2025-07-29T13:50:00
 WIP: feature implementation at 2025-07-31T13:25:02
 Fix bug in parser at 2025-07-31T16:48:53
+Update documentation at 2025-08-01T20:01:05
