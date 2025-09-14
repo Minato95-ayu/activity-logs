@@ -193,3 +193,4 @@ Update README.md at 2025-09-12T17:46:32
 Resolve merge conflicts at 2025-09-14T10:53:55
 Clean up unused variables at 2025-09-14T17:59:11
 Update README.md at 2025-09-14T17:56:56
+Add new utility function at 2025-09-14T22:37:53
