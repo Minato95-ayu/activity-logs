@@ -203,3 +203,4 @@ Add unit tests at 2025-09-17T16:48:28
 Fix minor typo at 2025-09-18T19:22:46
 Fix minor typo at 2025-09-18T20:16:52
 Update README.md at 2025-09-18T10:05:44
+Refactor core logic at 2025-09-18T17:21:32
