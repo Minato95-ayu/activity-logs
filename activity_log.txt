@@ -220,3 +220,4 @@ Update README.md at 2025-09-29T19:10:29
 Fix bug in parser at 2025-09-29T11:59:45
 Resolve merge conflicts at 2025-09-30T14:34:23
 Update dependencies at 2025-09-30T12:39:22
+Add new utility function at 2025-09-30T11:39:25
