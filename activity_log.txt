@@ -249,3 +249,4 @@ Update dependencies at 2025-10-10T10:10:18
 Update README.md at 2025-10-10T12:23:47
 Fix minor typo at 2025-10-10T23:30:22
 Update README.md at 2025-10-10T21:30:45
+Add new utility function at 2025-10-10T22:02:58
