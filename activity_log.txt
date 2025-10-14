@@ -258,3 +258,4 @@ Update dependencies at 2025-10-13T12:04:14
 Resolve merge conflicts at 2025-10-14T20:03:05
 Update README.md at 2025-10-14T17:54:50
 Add unit tests at 2025-10-14T19:58:23
+Refactor core logic at 2025-10-14T18:39:49
