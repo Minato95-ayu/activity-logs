@@ -280,3 +280,4 @@ Fix minor typo at 2025-10-24T17:55:39
 Update dependencies at 2025-10-25T16:30:03
 Resolve merge conflicts at 2025-10-25T18:03:24
 Add new utility function at 2025-10-25T19:17:22
+Refactor core logic at 2025-10-25T18:37:07
