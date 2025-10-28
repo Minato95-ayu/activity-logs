@@ -288,3 +288,4 @@ Refactor core logic at 2025-10-25T11:51:44
 Update dependencies at 2025-10-27T22:45:45
 Refactor core logic at 2025-10-28T20:27:39
 Fix minor typo at 2025-10-28T12:18:00
+Add unit tests at 2025-10-28T17:49:00
