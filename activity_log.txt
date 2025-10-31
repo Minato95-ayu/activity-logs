@@ -298,3 +298,4 @@ Resolve merge conflicts at 2025-10-30T14:17:29
 Update README.md at 2025-10-30T11:58:41
 WIP: feature implementation at 2025-10-31T21:39:43
 Update documentation at 2025-10-31T12:05:32
+Add new utility function at 2025-10-31T12:20:32
