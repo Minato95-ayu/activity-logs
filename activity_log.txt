@@ -305,3 +305,4 @@ Add new utility function at 2025-11-04T12:11:15
 Fix minor typo at 2025-11-06T10:25:32
 Refactor core logic at 2025-11-06T12:22:25
 Fix bug in parser at 2025-11-06T23:49:29
+Add unit tests at 2025-11-06T23:51:44
