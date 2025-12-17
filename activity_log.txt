@@ -397,3 +397,4 @@ Add new utility function at 2025-12-15T17:09:04
 Update dependencies at 2025-12-16T15:46:12
 Add new utility function at 2025-12-16T15:00:53
 Update dependencies at 2025-12-16T16:14:58
+Update documentation at 2025-12-17T20:42:09
