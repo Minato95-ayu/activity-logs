@@ -462,3 +462,4 @@ WIP: feature implementation at 2026-01-13T12:19:51
 Add unit tests at 2026-01-13T22:56:20
 Refactor core logic at 2026-01-13T20:09:11
 Update README.md at 2026-01-13T22:37:01
+Resolve merge conflicts at 2026-01-14T14:10:54
