@@ -585,3 +585,4 @@ Fix bug in parser at 2026-03-24T22:28:54
 Add new utility function at 2026-03-24T19:00:53
 Clean up unused variables at 2026-03-25T15:39:46
 Fix minor typo at 2026-03-25T14:42:28
+Refactor core logic at 2026-03-25T14:41:50
