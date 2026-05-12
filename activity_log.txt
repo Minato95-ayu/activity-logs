@@ -690,3 +690,4 @@ Update README.md at 2026-05-11T23:36:15
 Add new utility function at 2026-05-11T21:46:01
 Add new utility function at 2026-05-11T18:12:44
 Update documentation at 2026-05-12T13:30:13
+Resolve merge conflicts at 2026-05-12T14:27:18
