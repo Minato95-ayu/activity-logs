@@ -714,3 +714,4 @@ Update documentation at 2026-05-25T13:12:28
 Fix minor typo at 2026-05-25T16:40:28
 Fix bug in parser at 2026-05-25T11:41:44
 Add new utility function at 2026-05-25T13:11:16
+Clean up unused variables at 2026-05-26T23:14:00
