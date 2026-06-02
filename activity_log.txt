@@ -722,3 +722,4 @@ Resolve merge conflicts at 2026-05-28T13:05:32
 Update README.md at 2026-05-28T18:55:49
 Add unit tests at 2026-06-01T22:59:08
 Update dependencies at 2026-06-02T18:30:38
+Update documentation at 2026-06-02T15:52:43
